@@ -1,0 +1,91 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 3rem;
+}
+
+
+.tamLogo {
+    width: 15%;
+}
+
+.fuentesNav {
+    font-size: 50%;
+    font-weight: bold;
+    padding-left: 2rem;
+}
+
+.encabezado {
+background-color: rgba(249, 249, 249, 0);
+          
+
+}
+
+.botonNavbar {
+    height: 5rem;
+    width: 5rem;
+    color: #080808;
+}
+/* HERO */
+
+.fondoImg {
+    background-image: url("../img/hero.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.colorBtn {
+    background-color: #dcdcdc;
+    color: rgb(39, 39, 39);
+    font-size: 1.5rem;;
+}
+
+.tituloPrincipal {
+    color: rgb(229, 229, 229);
+    font-size: 7rem;
+    padding-bottom: 15rem;
+    margin: 7rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* PRODUCTOS */
+
+.tituloStock {
+    background-image: linear-gradient(to right, #313131 0%, rgb(18, 18, 18) 100%);   
+    color: rgb(240, 239, 239);
+    text-align: center;
+    font-size: 3rem;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+
+}
+
+.tituloStock h2 {
+    font-size: 5rem;
+}
+
+/* CAROUSEL  */
+
+.imgCarousel {
+    height: 70%;
+    object-fit: cover;
+}
+
+/* FOOTER  */
+
+footer {
+    background-color: #0e0e0e;
+    color: rgb(224, 224, 224);
+}
+
+footer ul li a {
+    font-size: 50% !important;
+    font-weight: bold;
+    text-align: center;
+    color: white !important;
+}
+
